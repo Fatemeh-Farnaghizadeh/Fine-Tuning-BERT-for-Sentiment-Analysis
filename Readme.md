@@ -21,4 +21,4 @@ Sentiment analysis, also known as opinion mining, is the process of determining 
 
    ```bash
    git clone https://github.com/Fatemeh-Farnaghizadeh/Fine-Tuning-BERT-for-Sentiment-Analysis.git
-   cd finetuning-bert-sentiment
+   cd Fine-Tuning-BERT-for-Sentiment-Analysis
