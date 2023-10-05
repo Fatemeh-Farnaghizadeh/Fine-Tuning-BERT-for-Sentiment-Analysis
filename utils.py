@@ -14,6 +14,6 @@ DROP = 0.3
 
 #Train
 DEVICE = 'cuda' if torch.cuda.is_available() else 'cpu'
-EPOCHS = 10
+EPOCHS = 100
 LR = 2e-5
 
